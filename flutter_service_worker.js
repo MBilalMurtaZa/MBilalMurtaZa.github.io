@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "88f7cfd31ecaf2c8e3d50f59d143f11c",
-"index.html": "5f1c276aaa5f5dacc6022b16c848b5c3",
-"/": "5f1c276aaa5f5dacc6022b16c848b5c3",
-"main.dart.js": "eab972cf80f81f2edfa033112a209625",
+"index.html": "b8aeefd4bd22f75199b9bbdc93496986",
+"/": "b8aeefd4bd22f75199b9bbdc93496986",
+"main.dart.js": "323a75497d26e7bb2ed87dad95ead368",
 "favicon.png": "c03a0b2e36cdb4edae11c0ac25de5f83",
 "icons/urPay_logo.jpg": "0c6ae4f09e7b247dff1337ec0cf80f20",
 "icons/Icon-192.png": "0c6ae4f09e7b247dff1337ec0cf80f20",
