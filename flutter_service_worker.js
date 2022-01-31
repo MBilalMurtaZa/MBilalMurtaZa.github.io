@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "88f7cfd31ecaf2c8e3d50f59d143f11c",
-"index.html": "0e7376174aa54cd5514f4220b7bb9f8b",
-"/": "0e7376174aa54cd5514f4220b7bb9f8b",
+"index.html": "cfe0cef72130e8c95735958a3e129f12",
+"/": "cfe0cef72130e8c95735958a3e129f12",
 "main.dart.js": "65b5803f0fd4a9a9ed2cae794ba5c8f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/urPay_logo.jpg": "0c6ae4f09e7b247dff1337ec0cf80f20",
@@ -14,7 +14,6 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "0c6ae4f09e7b247dff1337ec0cf80f20",
 "icons/Icon-512.png": "0c6ae4f09e7b247dff1337ec0cf80f20",
 "manifest.json": "bca2d17527f60390af7d05b4e9309436",
-"Archive.zip": "375bc3a1f17342d45c32e4389383e173",
 "assets/AssetManifest.json": "78c7cb4fc3b5f33b49aabc4c130c2273",
 "assets/NOTICES": "ede6b7ac8c7a9a3be58ffb0b4f6ac509",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
