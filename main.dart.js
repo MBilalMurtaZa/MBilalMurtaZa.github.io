@@ -33129,7 +33129,7 @@ A.YL.prototype={
 $0(){var s,r=this.a
 r.z=!1
 r.EB(5)
-r.cx=B.h.h([25,50,100,500,1000][B.dy.uR(5)])
+r.cx=B.h.h([25,50,100][B.dy.uR(3)])
 s=$.wF
 s.toString
 r.fr=s/2-200
